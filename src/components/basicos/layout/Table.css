@@ -1,0 +1,14 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 2%;
+    border: 1px solid black;
+    text-align: center;
+}
+.PAR{
+    background-color: #cacaca;
+}
